@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "ARViSAN Documentation"
 date:   2025-07-22 15:52:19 +0200
 categories: jekyll update
 ---
